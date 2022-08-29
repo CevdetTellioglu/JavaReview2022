@@ -1,0 +1,2 @@
+module JavaCoursReview2022 {
+}
