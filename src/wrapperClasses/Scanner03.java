@@ -103,6 +103,7 @@ public class Scanner03 {
 		System.out.println((saat * 60 * 60) + " kadar saniye eder.");
 
 		scan.close();
+		//test
 
 	}
 }
